@@ -1,4 +1,5 @@
 for jj=1:length(rv_t)
+    //test 2
     rvt = rv_t(jj).dat;
     adjt = adj_t(jj).dat;
     N = size(rv,2);
